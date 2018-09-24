@@ -1,0 +1,2 @@
+1. install java-runtime-environment from jre-8u121-windows-x64.exe
+2. run the simulator from transformer1.jar
